@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "NBTools"
 include ':app'
 include ':NBToolsLibrary'
+include ':NetWorkLibrary'
